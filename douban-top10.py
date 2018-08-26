@@ -16,7 +16,6 @@ d = {
     'page_limit':10,
     'page_start':10
 }
-# urls = ['https://www.baidu.com/s?wd=magedu','https://www.baidu.com/s?wd=magedu']
 urls = ['https://movie.douban.com/']
 
 session = requests.Session()
