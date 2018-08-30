@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*
+# auth by wangchunli
+
 from splinter.browser import Browser
 from time import sleep
 import traceback
