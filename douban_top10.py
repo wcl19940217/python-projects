@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*
+# auth by wangchunli
+
 import urllib3
 from urllib.parse import urlencode
 from urllib3 import HTTPResponse
