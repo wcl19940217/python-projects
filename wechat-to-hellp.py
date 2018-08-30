@@ -21,7 +21,7 @@ def load_words(file_path):
 
 def get_userName():
     itchat.auto_login(hotReload=True)
-    friend=itchat.search_friends(name="亭韵1")
+    friend=itchat.search_friends(name="你好1")
     print(friend)
     userName = friend[0]['UserName']
     return userName
