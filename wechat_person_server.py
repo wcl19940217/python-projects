@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*
+# auth by wangchunli
+
 import itchat,time,re
 from itchat.content import *
 @itchat.msg_register([TEXT])
