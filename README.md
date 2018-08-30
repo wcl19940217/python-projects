@@ -1,3 +1,3 @@
 # python-projects
 python
-爬取豆瓣网周排行前十。
+本人利用python相关的标准库完成的相关个人小作品。
