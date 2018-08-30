@@ -75,9 +75,9 @@ for urls2 in urls_two:
 
     except Exception as e:
         print(e)
-    # with open('c:/assets/urls', 'a+', encoding='utf-8') as f1:
-    #     f1.write(str(urls))
-    #     f1.flush()
+    with open('c:/assets/urls', 'a+', encoding='utf-8') as f1:
+        f1.write(str(urls))
+        f1.flush()
 
 l = []
 l1 = []
