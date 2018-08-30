@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*
+# auth by wangchunli
+
 import requests
 from bs4 import BeautifulSoup
 import datetime
