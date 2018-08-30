@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*
+# auth by wangchunli
+
 import itchat
 import time
 import pandas as pd
